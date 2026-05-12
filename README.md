@@ -48,19 +48,19 @@ A custom dataset was created and augmented to improve model accuracy and real-wo
 ## 🖼️ Screenshots
 
 ### AI Analysis & Prediction
-![AI Analysis](/screenshots/ai-analysis.jpg)
+![AI Analysis](/ai-analysis.jpg)
 
 ### Home Page
-![Home](/screenshots/home.jpg)
+![Home](/home.jpg)
 
 ### Login Page
-![Login](/screenshots/login.jpg)
+![Login](/login.jpg)
 
 ### Register Page
-![Register](/screenshots/register.jpg)
+![Register](/register.jpg)
 
 ### Dataset Preview
-![Dataset](/screenshots/dataset.jpg)
+![Dataset](/dataset.jpg)
 
 
 
