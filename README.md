@@ -47,6 +47,9 @@ A custom dataset was created and augmented to improve model accuracy and real-wo
 
 ## 🖼️ Screenshots
 
+### AI Analysis & Prediction
+![AI Analysis](screenshots/ai-analysis.jpeg)
+
 ### Home Page
 ![Home](screenshots/home.jpeg)
 
@@ -59,8 +62,7 @@ A custom dataset was created and augmented to improve model accuracy and real-wo
 ### Dataset Preview
 ![Dataset](screenshots/dataset.jpeg)
 
-### AI Analysis & Prediction
-![AI Analysis](screenshots/ai-analysis.jpeg)
+
 
 ---
 
